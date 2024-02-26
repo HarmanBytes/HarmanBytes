@@ -1,27 +1,105 @@
-### Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Harmanpreet Singh</h1></summary>
+  </ul>
+</div>
+<h3 align="center">Turning Data into Insights, One Algorithm at a Time</h3>
+<h1></h1>
 
-👋 Greetings, fellow data voyager! I'm Harmanpreet Singh, a zealous explorer navigating the vast oceans of data with a compass fueled by curiosity. 🌐💡</span>
+- 🔭 Currently working on a web scraping project called **TwitterBot**, which aims to extract data from Twitter for analysis and insights generation.
 
-📊 Currently immersed in the world of data science and analytics, I find sheer joy in unraveling insights and uncovering patterns that hide within the numbers. From wrangling messy datasets to crafting predictive models, I'm on a mission to turn raw data into actionable intelligence.
+- 🌱 Actively improving my **Data Science** skills, with a focus on mastering **machine learning, deep learning algorithms and data analysis & visualization techniques**.
 
-🔍 In this grand journey of becoming a data maestro, I devour books on statistics, dance with machine learning algorithms, and orchestrate symphonies with Python and R. My toolkit includes pandas, scikit-learn, and a sprinkle of neural network magic.
+- 👯 Open to collaboration on projects related to **Data Science, Data Analysis, Machine Learning, Deep Learning, and Web Scraping**. Whether it's contributing code, providing feedback, or discussing ideas, I'm eager to collaborate with like-minded individuals. Additionally, I'm available for **job opportunities or internships** in these fields.
 
-🌱 As a relentless learner, I believe in the power of data to tell compelling stories and drive meaningful decisions. Whether it's experimenting with new algorithms or delving into the latest in data visualization, my passion lies in the ever-evolving landscape of data science.
+- 💬 Feel free to ask me about anything related to **Data, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning**. I'm always up for interesting discussions and knowledge sharing!
 
-📚 Let's embark on this data odyssey together! Feel free to explore my repositories, dive into the kernels of my experiments, and let's collaborate on unraveling the mysteries hidden in the data.
+- 📫 How to reach me <a href=singhharmanpreet21@gmail.com>singhharmanpreet21@gmail.com</a>
+<h1></h1>
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Publications</h2></summary>
+  </ul>
+</div>
 
-Excited to connect and learn alongside fellow data enthusiasts! 🚀📈
-<!--
-**HarmanBytes/HarmanBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| **Facial Emotion Recognition and Music Recommendation System using CNN-based Deep Learning Techniques** | **An Efficient Model for Facial Expression Recognition with Music Recommendation** |
+|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Authors:** Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, **Harmanpreet Singh**, Pankaj Raju, Rohit Rajpoot <br> **Published:** 16 May 2023 <br> **Journal:** Evolving Systems (Published by Springer) <br> **[Link](https://doi.org/10.1007/s12530-023-09506-z)** | **Authors:** Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, **Harmanpreet Singh**, Pankaj Raju, Rohit Rajpoot <br> **Published:** 2 Sep 2023 <br> **Journal:** National Academy Science Letters (Published by Springer) <br> **[Link](https://doi.org/10.1007/s40009-023-01346-4)** |
 
-Here are some ideas to get you started:
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Technologies That I Know/Familiar With👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="img/vscode.svg" height="45" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
+  <img width="12" />
+  <img src="img/matplotlib.svg" height="45" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="img/seaborn.svg" height="45" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="img/Keras.svg" height="45" alt="keras logo"  />
+  <img width="12" />
+  <img src="img/scikit.svg" height="45" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="selenium logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Connect with me:</h2></summary>
+  </ul>
+</div>
+<div align="left">
+  <a href="https://www.youtube.com/@harmanbytes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="45" alt="youtube logo"  /></a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/www.linkedin.com/in/harmanbytes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="45" alt="linkedin logo"  /></a>
+  <img width="12" />
+  <a href="https://twitter.com/harmanbytes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="45" alt="twitter logo"  /></a>
+  <img width="12" />
+  <a href="singhharmanpreet21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="45" alt="gmail logo"  /></a>
+  <img width="12" />
+  <a href="https://kaggle.com/harmanbytes" target="_blank">
+    <img src="img/kaggle.svg" width="47" height="45" alt="kaggle logo"  /></a>
+  <img width="12" />
+  <a href="https://hashnode.com/@harmanbytes" target="_blank">
+    <img src="img/hashnode.svg" width="47" height="45" alt="hashnode logo"  /></a>
+  <img width="12" />
+  <a href="https://discord.gg/https://discord.gg/DWa5WzyttV" target="_blank">
+    <img src="img/discord.svg" width="47" height="45" alt="discord logo"  /></a>
+</div>
+
+
