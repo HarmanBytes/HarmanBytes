@@ -6,15 +6,11 @@
 <h3 align="center">Turning Data into Insights, One Algorithm at a Time</h3>
 <h1></h1>
 
-- 🔭 Currently working on a web scraping project called **TwitterBot**, which aims to extract data from Twitter for analysis and insights generation.
-
-- 🌱 Actively improving my **Data Science** skills, with a focus on mastering **machine learning, deep learning algorithms and data analysis & visualization techniques**.
-
-- 👯 Open to collaboration on projects related to **Data Science, Data Analysis, Machine Learning, Deep Learning, and Web Scraping**. Whether it's contributing code, providing feedback, or discussing ideas, I'm eager to collaborate with like-minded individuals. Additionally, I'm available for **job opportunities or internships** in these fields.
-
-- 💬 Feel free to ask me about anything related to **Data, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning**. I'm always up for interesting discussions and knowledge sharing!
-
-- 📫 How to reach me <a href=singhharmanpreet21@gmail.com>singhharmanpreet21@gmail.com</a>
+- 🔭 Currently working on a web scraping project called **TwitterBot** for Twitter data extraction.
+- 🌱 Actively improving **Data Science** skills, focusing on machine learning, deep learning, and data analysis.
+- 👯 Open to collaboration on projects related to **Data Science**, **Data Analysis**, **Machine Learning**, **Deep Learning** and **Web Scraping**. Available for **job opportunities or internships**.
+- 💬 Ask me about **Data**, **Data Science**, **AI**, **ML**, and **DL**. Always up for discussions!
+- 📫 Feel free to reach out to me at [mail](singhharmanpreet21@gmail.com).
 <h1></h1>
 <div id="user-content-toc">
   <ul align="center">
