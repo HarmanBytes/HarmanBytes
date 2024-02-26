@@ -17,21 +17,39 @@
 - 📫 How to reach me <a href=singhharmanpreet21@gmail.com>singhharmanpreet21@gmail.com</a>
 <h1></h1>
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Publications</h2></summary>
   </ul>
 </div>
+<table>
+  <tr>
+    <th>Facial Emotion Recognition and Music Recommendation System using CNN-based Deep Learning Techniques</th>
+    <th>An Efficient Model for Facial Expression Recognition with Music Recommendation</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Authors:</strong> Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, <strong>Harmanpreet Singh</strong>, Pankaj Raju, Rohit Rajpoot <br>
+      <strong>Published:</strong> 16 May 2023 <br>
+      <strong>Journal:</strong> Evolving Systems (Published by Springer) <br>
+      <a href="https://doi.org/10.1007/s12530-023-09506-z">Link</a>
+    </td>
+    <td>
+      <strong>Authors:</strong> Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, <strong>Harmanpreet Singh</strong>, Pankaj Raju, Rohit Rajpoot <br>
+      <strong>Published:</strong> 2 Sep 2023 <br>
+      <strong>Journal:</strong> National Academy Science Letters (Published by Springer) <br>
+      <a href="https://doi.org/10.1007/s40009-023-01346-4">Link</a>
+    </td>
+  </tr>
+</table>
 
-| **Facial Emotion Recognition and Music Recommendation System using CNN-based Deep Learning Techniques** | **An Efficient Model for Facial Expression Recognition with Music Recommendation** |
-|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Authors:** Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, **Harmanpreet Singh**, Pankaj Raju, Rohit Rajpoot <br> **Published:** 16 May 2023 <br> **Journal:** Evolving Systems (Published by Springer) <br> **[Link](https://doi.org/10.1007/s12530-023-09506-z)** | **Authors:** Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, **Harmanpreet Singh**, Pankaj Raju, Rohit Rajpoot <br> **Published:** 2 Sep 2023 <br> **Journal:** National Academy Science Letters (Published by Springer) <br> **[Link](https://doi.org/10.1007/s40009-023-01346-4)** |
 
+<h1></h1>
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know/Familiar With👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
@@ -72,14 +90,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="selenium logo"  />
 </div>
-
-
+<h1></h1>
 <div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect with me:</h2></summary>
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me 🔗</h2></summary>
   </ul>
 </div>
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@harmanbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="45" alt="youtube logo"  /></a>
   <img width="12" />
