@@ -115,4 +115,3 @@
     <img src="img/discord.svg" width="47" height="45" alt="discord logo"  /></a>
 </div>
 
----
