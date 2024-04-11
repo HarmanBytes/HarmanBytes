@@ -105,12 +105,6 @@
   <a href="singhharmanpreet21@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="45" alt="gmail logo"  /></a>
   <img width="12" />
-  <a href="https://kaggle.com/harmanbytes" target="_blank">
-    <img src="img/kaggle.svg" width="47" height="45" alt="kaggle logo"  /></a>
-  <img width="12" />
-  <a href="https://hashnode.com/@harmanbytes" target="_blank">
-    <img src="img/hashnode.svg" width="47" height="45" alt="hashnode logo"  /></a>
-  <img width="12" />
   <a href="https://discord.gg/https://discord.gg/DWa5WzyttV" target="_blank">
     <img src="img/discord.svg" width="47" height="45" alt="discord logo"  /></a>
 </div>
